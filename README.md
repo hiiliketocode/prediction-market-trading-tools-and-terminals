@@ -1,10 +1,10 @@
 # Best Tools to Trade Prediction Markets (2026): Verified Directory
 
-Which tool fits depends on how many venues you trade. The terminals most traders start with are Kalshi Pro, Polymarket's app, Kairos, and Hyperliquid's interface; the first two cover one venue each, Kairos merges several. The rest of the first table covers the other terminals and aggregators. Bots, alert services, analytics and the 59 APIs and SDKs are each in their own section. Everything was re-checked on 2026-11-25.
+Which tool fits depends on how many venues you trade. The terminals most traders start with are Kalshi Pro, Polymarket's app, Kairos, and Hyperliquid's interface; the first two cover one venue each, Kairos merges several. The rest of the first table covers the other terminals and aggregators. Bots, alert services, analytics and the 59 APIs and SDKs are each in their own section. Everything was re-checked on 2026-09-08.
 
 A maintained directory of prediction market tools for Polymarket, Kalshi, Predict.fun, Limitless, Myriad, Hyperliquid, Manifold and the wider forecasting ecosystem. Every entry carries the venues it covers, whether it executes trades, its pricing, and a **status with a last-verified date**. Links are re-checked automatically every week; anything that stops resolving is flagged, not silently kept.
 
-**289 tools. 233 live or in beta. 8 shut down or expired. Last full verification: 2026-11-25.**
+**289 tools. 233 live or in beta. 8 shut down or expired. Last full verification: 2026-09-08.**
 
 The data lives in [`tools.json`](tools.json); this README is generated from it. To add or correct a tool, edit `tools.json` and open a pull request (see [CONTRIBUTING.md](CONTRIBUTING.md)). Descriptions state what a tool does; accuracy and profit claims are the vendor's, not ours.
 
@@ -429,7 +429,7 @@ Kept for the record so nobody routes money through a dead tool. Each row states 
 
 **Do these tools trade with my money or my keys?** It varies. Venue terminals use your venue account. Some Polymarket bots are self-custodial and sign from your wallet; others hold funds. This directory does not rate custody; read each tool's docs and start small.
 
-Last automated link check: 2026-08-27
+Last automated link check: 2026-11-16
 
 ## How verification works
 
