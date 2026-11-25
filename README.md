@@ -302,7 +302,7 @@ The best prediction market APIs in 2026 fall into two groups: official venue API
 | [pykalshi](https://github.com/arshka/pykalshi) | Unofficial MIT Python client for the Kalshi API with websocket streaming, retries, pandas output, local orderbook handling and order placement, amend and cancel methods. | Kalshi | Yes | Free (MIT) | Live · 2026-08-27 |
 | [rs-clob-client-v2](https://github.com/Polymarket/rs-clob-client-v2) | Rust crate polymarket_client_sdk_v2 for Polymarket CLOB trading with typed builders, WebSocket streams, batch orders and optional Data, Gamma, Bridge and CTF clients. | Polymarket | Yes | Free | Live · 2026-08-27 |
 | [sports-skills](https://sports-skills.sh) ([source](https://github.com/machina-sports/sports-skills)) | Open-source SKILL.md agent skills for live sports data with Kalshi and Polymarket market feeds, a cross-venue odds dashboard and an opt-in Polymarket trading skill. No API keys. | Kalshi, Polymarket, sportsbooks | Yes | Free; Machina Pro for licensed data | Live · 2026-08-27 |
-| [TAPE Markets](https://tapemarkets.io) | Polymarket data and research platform. Every trade decoded from the chain since November 2022, wallets labeled by how they trade, free daily indexes, by terminal, API, MCP or datashare. | Polymarket | No | Free public tools, terminal and API by demo | Live · 2026-11-25 |
+| [TAPE Markets](https://tapemarkets.io) | Polymarket data and research platform. Every trade decoded from the chain since November 2022, wallets labeled by how they trade, free daily indexes and a leaderboard, by terminal or API. | Polymarket | No | Free public tools, terminal and API by demo | Live · 2026-11-25 |
 
 ## Dashboards
 

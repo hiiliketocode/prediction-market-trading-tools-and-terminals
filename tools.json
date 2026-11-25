@@ -6098,7 +6098,7 @@
   "name": "TAPE Markets",
   "url": "https://tapemarkets.io",
   "category": "Data & APIs",
-  "description": "Polymarket data and research platform. Every trade decoded from the chain since November 2022, wallets labeled by how they trade, free daily indexes, by terminal, API, MCP or datashare.",
+  "description": "Polymarket data and research platform. Every trade decoded from the chain since November 2022, wallets labeled by how they trade, free daily indexes and a leaderboard, by terminal or API.",
   "venues": [
    "Polymarket"
   ],
